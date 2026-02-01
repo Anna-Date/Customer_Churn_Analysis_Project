@@ -1,0 +1,506 @@
+customer_id,churn_date,churn_reason
+13,2024-10-27,Technical problems
+17,2024-11-26,Service quality issues
+27,2024-12-31,Price too high
+28,2024-12-31,No longer need service
+32,2024-12-31,No longer need service
+37,2024-09-27,Poor customer service
+41,2024-12-31,Price too high
+42,2024-09-27,Billing issues
+43,2024-03-31,Billing issues
+61,2024-11-26,Moving to different region
+69,2024-03-01,No longer need service
+70,2024-12-31,Billing issues
+80,2024-12-31,Technical problems
+86,2024-09-27,Service quality issues
+94,2024-06-29,Technical problems
+104,2024-12-31,Better offer from competitor
+113,2024-12-31,Better offer from competitor
+128,2024-12-31,Billing issues
+138,2024-03-31,Better offer from competitor
+139,2024-12-31,Poor customer service
+145,2024-12-31,Price too high
+148,2024-11-26,Service quality issues
+150,2024-01-31,Billing issues
+160,2024-11-26,Moving to different region
+189,2024-12-31,Technical problems
+197,2024-09-27,Billing issues
+205,2024-12-31,Poor customer service
+265,2024-03-31,Moving to different region
+268,2024-08-28,Technical problems
+286,2024-12-31,Technical problems
+299,2024-12-31,Billing issues
+305,2024-12-31,Poor customer service
+312,2024-09-27,Technical problems
+357,2024-01-01,Price too high
+360,2024-12-31,Moving to different region
+369,2024-12-31,No longer need service
+395,2024-04-30,Better offer from competitor
+409,2024-05-30,Billing issues
+411,2024-05-30,Service quality issues
+415,2024-06-29,Moving to different region
+418,2024-12-31,Poor customer service
+419,2024-03-01,Price too high
+423,2024-05-30,No longer need service
+444,2024-12-31,Service quality issues
+446,2024-03-01,Moving to different region
+461,2024-01-01,No longer need service
+470,2024-06-29,Moving to different region
+497,2024-03-31,Moving to different region
+511,2024-08-28,Poor customer service
+517,2024-06-29,Billing issues
+518,2024-12-31,Price too high
+526,2024-01-01,Poor customer service
+550,2024-12-31,Better offer from competitor
+551,2024-01-01,Price too high
+557,2024-09-27,Technical problems
+562,2024-09-27,Better offer from competitor
+563,2024-12-31,Poor customer service
+564,2024-12-31,Poor customer service
+567,2024-12-31,Price too high
+579,2024-07-29,Better offer from competitor
+580,2024-12-31,Moving to different region
+586,2024-05-30,No longer need service
+603,2024-06-29,Moving to different region
+607,2024-03-31,Price too high
+628,2024-12-31,Billing issues
+652,2024-07-29,Technical problems
+656,2024-11-26,Moving to different region
+712,2024-12-31,No longer need service
+716,2024-08-28,Poor customer service
+733,2024-12-31,Technical problems
+734,2024-04-30,Price too high
+743,2024-12-31,Billing issues
+747,2024-08-28,Better offer from competitor
+764,2024-12-31,No longer need service
+788,2024-12-31,Technical problems
+795,2024-12-31,Better offer from competitor
+801,2024-12-31,Poor customer service
+823,2024-12-31,Technical problems
+825,2024-12-31,Moving to different region
+832,2024-07-29,Moving to different region
+839,2024-03-31,Better offer from competitor
+841,2024-10-27,Technical problems
+857,2024-12-31,Better offer from competitor
+866,2024-12-31,Billing issues
+868,2024-12-31,Billing issues
+876,2024-04-30,Moving to different region
+878,2024-12-31,Service quality issues
+892,2024-12-31,Billing issues
+893,2024-01-01,No longer need service
+894,2024-06-29,No longer need service
+896,2024-12-31,No longer need service
+898,2024-04-30,Price too high
+899,2024-07-29,No longer need service
+912,2024-01-01,Poor customer service
+928,2024-03-31,No longer need service
+936,2024-08-28,Better offer from competitor
+937,2024-01-01,Poor customer service
+959,2024-11-26,Better offer from competitor
+970,2024-01-01,Service quality issues
+988,2024-12-31,Price too high
+1015,2024-12-31,Better offer from competitor
+1024,2024-12-31,Technical problems
+1025,2024-07-29,Moving to different region
+1038,2024-12-31,Service quality issues
+1045,2024-12-31,Moving to different region
+1052,2024-11-26,Better offer from competitor
+1054,2024-10-27,Better offer from competitor
+1055,2024-12-31,Service quality issues
+1056,2024-03-01,Poor customer service
+1060,2024-03-01,No longer need service
+1078,2024-01-31,Price too high
+1080,2024-12-31,Price too high
+1084,2024-06-29,Billing issues
+1100,2024-03-31,Service quality issues
+1106,2024-03-31,Better offer from competitor
+1110,2024-12-31,No longer need service
+1144,2024-12-31,Technical problems
+1171,2024-01-01,Poor customer service
+1181,2024-10-27,Price too high
+1186,2024-12-31,Technical problems
+1202,2024-08-28,Moving to different region
+1217,2024-12-31,Service quality issues
+1230,2024-01-01,Better offer from competitor
+1245,2024-12-31,Service quality issues
+1247,2024-12-31,Poor customer service
+1276,2024-11-26,Technical problems
+1280,2024-12-31,Poor customer service
+1292,2024-01-31,Price too high
+1293,2024-01-01,Technical problems
+1326,2024-12-31,Billing issues
+1330,2024-12-31,Moving to different region
+1359,2024-03-01,Poor customer service
+1374,2024-12-31,No longer need service
+1379,2024-04-30,Poor customer service
+1387,2024-12-31,Poor customer service
+1393,2024-11-26,Price too high
+1398,2024-12-31,Moving to different region
+1404,2024-12-31,Technical problems
+1415,2024-12-31,No longer need service
+1439,2024-12-31,Service quality issues
+1462,2024-12-31,Service quality issues
+1466,2024-04-30,Service quality issues
+1473,2024-11-26,Technical problems
+1474,2024-03-31,No longer need service
+1478,2024-12-31,Price too high
+1498,2024-12-31,No longer need service
+1504,2024-12-31,Billing issues
+1506,2024-12-31,Moving to different region
+1513,2024-12-31,Technical problems
+1523,2024-07-29,No longer need service
+1540,2024-07-29,Technical problems
+1546,2024-12-31,Technical problems
+1554,2024-01-31,Service quality issues
+1560,2024-01-01,Technical problems
+1570,2024-12-31,Price too high
+1572,2024-01-01,Billing issues
+1585,2024-12-31,Better offer from competitor
+1596,2024-01-31,Better offer from competitor
+1606,2024-01-31,No longer need service
+1608,2024-12-31,Technical problems
+1613,2024-12-31,Service quality issues
+1616,2024-05-30,Service quality issues
+1627,2024-03-31,Poor customer service
+1628,2024-10-27,Better offer from competitor
+1660,2024-12-31,Better offer from competitor
+1682,2024-12-31,Billing issues
+1691,2024-12-31,No longer need service
+1692,2024-10-27,Service quality issues
+1694,2024-12-31,Better offer from competitor
+1707,2024-12-31,Poor customer service
+1710,2024-11-26,Billing issues
+1711,2024-12-31,Technical problems
+1751,2024-12-31,Moving to different region
+1758,2024-03-31,Better offer from competitor
+1766,2024-12-31,Moving to different region
+1777,2024-01-01,Technical problems
+1789,2024-12-31,No longer need service
+1805,2024-07-29,Technical problems
+1812,2024-03-01,Poor customer service
+1817,2024-01-01,No longer need service
+1823,2024-12-31,No longer need service
+1834,2024-12-31,Technical problems
+1848,2024-12-31,Better offer from competitor
+1849,2024-08-28,No longer need service
+1862,2024-12-31,Poor customer service
+1869,2024-03-01,Price too high
+1876,2024-12-31,Service quality issues
+1880,2024-12-31,Service quality issues
+1895,2024-04-30,Service quality issues
+1922,2024-12-31,Poor customer service
+1943,2024-08-28,Moving to different region
+1945,2024-04-30,Better offer from competitor
+1949,2024-12-31,Billing issues
+1966,2024-04-30,Poor customer service
+1976,2024-01-31,Better offer from competitor
+1983,2024-12-31,Service quality issues
+1985,2024-12-31,Technical problems
+1998,2024-12-31,Billing issues
+2002,2024-10-27,Service quality issues
+2013,2024-01-31,Better offer from competitor
+2062,2024-12-31,Price too high
+2070,2024-08-28,Better offer from competitor
+2071,2024-08-28,Better offer from competitor
+2074,2024-12-31,Service quality issues
+2082,2024-04-30,No longer need service
+2083,2024-12-31,Poor customer service
+2094,2024-04-30,Technical problems
+2111,2024-06-29,Better offer from competitor
+2127,2024-04-30,Service quality issues
+2140,2024-03-31,Billing issues
+2149,2024-04-30,Better offer from competitor
+2153,2024-12-31,No longer need service
+2154,2024-12-31,Technical problems
+2171,2024-12-31,Better offer from competitor
+2173,2024-09-27,Billing issues
+2174,2024-11-26,Poor customer service
+2183,2024-01-01,Better offer from competitor
+2186,2024-04-30,Service quality issues
+2187,2024-12-31,Technical problems
+2191,2024-12-31,Technical problems
+2202,2024-12-31,Price too high
+2205,2024-04-30,No longer need service
+2224,2024-06-29,Poor customer service
+2227,2024-12-31,Billing issues
+2255,2024-08-28,Billing issues
+2270,2024-12-31,Moving to different region
+2281,2024-12-31,No longer need service
+2288,2024-12-31,Service quality issues
+2292,2024-12-31,Billing issues
+2302,2024-12-31,Service quality issues
+2310,2024-12-31,Technical problems
+2311,2024-01-01,Better offer from competitor
+2333,2024-05-30,Better offer from competitor
+2336,2024-03-01,Price too high
+2347,2024-12-31,Moving to different region
+2356,2024-12-31,Price too high
+2367,2024-12-31,No longer need service
+2368,2024-11-26,Better offer from competitor
+2382,2024-12-31,Moving to different region
+2397,2024-01-01,Service quality issues
+2399,2024-10-27,Billing issues
+2404,2024-01-01,Technical problems
+2409,2024-12-31,Billing issues
+2427,2024-12-31,Technical problems
+2431,2024-12-31,Price too high
+2446,2024-04-30,Price too high
+2452,2024-12-31,Better offer from competitor
+2458,2024-12-31,Technical problems
+2463,2024-12-31,Billing issues
+2490,2024-12-31,Billing issues
+2493,2024-09-27,Better offer from competitor
+2501,2024-12-31,Better offer from competitor
+2520,2024-12-31,Service quality issues
+2537,2024-03-01,Poor customer service
+2550,2024-11-26,Moving to different region
+2553,2024-12-31,Better offer from competitor
+2576,2024-12-31,No longer need service
+2597,2024-12-31,Price too high
+2619,2024-12-31,Moving to different region
+2625,2024-12-31,Price too high
+2651,2024-12-31,Billing issues
+2660,2024-12-31,Better offer from competitor
+2662,2024-05-30,Service quality issues
+2688,2024-12-31,No longer need service
+2715,2024-01-31,Technical problems
+2728,2024-06-29,Better offer from competitor
+2735,2024-12-31,Billing issues
+2742,2024-12-31,Poor customer service
+2745,2024-04-30,Price too high
+2776,2024-12-31,Better offer from competitor
+2780,2024-12-31,Technical problems
+2784,2024-01-01,Price too high
+2787,2024-12-31,Price too high
+2808,2024-12-31,Better offer from competitor
+2814,2024-12-31,Poor customer service
+2820,2024-12-31,Price too high
+2821,2024-12-31,No longer need service
+2836,2024-06-29,Billing issues
+2843,2024-12-31,No longer need service
+2844,2024-01-31,Technical problems
+2866,2024-12-31,Service quality issues
+2906,2024-01-01,Technical problems
+2920,2024-06-29,Service quality issues
+2931,2024-12-31,Service quality issues
+2936,2024-12-31,Technical problems
+2952,2024-01-01,Poor customer service
+2960,2024-12-31,Moving to different region
+2972,2024-03-31,Poor customer service
+2988,2024-09-27,Better offer from competitor
+2992,2024-12-31,Price too high
+2997,2024-11-26,Poor customer service
+3005,2024-12-31,Price too high
+3059,2024-12-31,Better offer from competitor
+3072,2024-12-31,Poor customer service
+3085,2024-12-31,Service quality issues
+3095,2024-10-27,Moving to different region
+3108,2024-01-31,Billing issues
+3153,2024-04-30,Technical problems
+3156,2024-12-31,Technical problems
+3158,2024-10-27,Billing issues
+3185,2024-08-28,Billing issues
+3188,2024-05-30,No longer need service
+3220,2024-11-26,Technical problems
+3221,2024-06-29,Technical problems
+3225,2024-01-01,No longer need service
+3226,2024-12-31,Poor customer service
+3229,2024-12-31,Better offer from competitor
+3230,2024-06-29,No longer need service
+3235,2024-05-30,Better offer from competitor
+3241,2024-12-31,Poor customer service
+3249,2024-12-31,Service quality issues
+3257,2024-12-31,Billing issues
+3274,2024-03-01,Moving to different region
+3275,2024-12-31,No longer need service
+3290,2024-12-31,Moving to different region
+3335,2024-07-29,No longer need service
+3337,2024-12-31,No longer need service
+3340,2024-12-31,Price too high
+3354,2024-04-30,Billing issues
+3359,2024-12-31,Billing issues
+3383,2024-12-31,Poor customer service
+3386,2024-12-31,Price too high
+3410,2024-12-31,Price too high
+3420,2024-12-31,Price too high
+3425,2024-12-31,Price too high
+3438,2024-03-31,Price too high
+3464,2024-12-31,Service quality issues
+3466,2024-12-31,Billing issues
+3474,2024-12-31,Service quality issues
+3486,2024-12-31,Better offer from competitor
+3493,2024-12-31,Better offer from competitor
+3498,2024-07-29,Billing issues
+3517,2024-01-01,No longer need service
+3519,2024-06-29,Billing issues
+3526,2024-12-31,Better offer from competitor
+3539,2024-12-31,Poor customer service
+3578,2024-01-01,Better offer from competitor
+3582,2024-11-26,Better offer from competitor
+3585,2024-12-31,No longer need service
+3589,2024-03-01,Price too high
+3627,2024-07-29,Price too high
+3629,2024-12-31,Service quality issues
+3640,2024-09-27,Service quality issues
+3647,2024-12-31,Price too high
+3652,2024-12-31,Poor customer service
+3665,2024-05-30,No longer need service
+3708,2024-04-30,Technical problems
+3714,2024-01-01,Technical problems
+3718,2024-12-31,Technical problems
+3720,2024-04-30,Technical problems
+3722,2024-12-31,Moving to different region
+3746,2024-06-29,Service quality issues
+3754,2024-01-01,Service quality issues
+3756,2024-12-31,Billing issues
+3773,2024-12-31,Price too high
+3782,2024-06-29,Technical problems
+3783,2024-12-31,Better offer from competitor
+3796,2024-12-31,Better offer from competitor
+3805,2024-04-30,Technical problems
+3809,2024-12-31,Better offer from competitor
+3829,2024-05-30,No longer need service
+3833,2024-03-01,Poor customer service
+3845,2024-12-31,No longer need service
+3855,2024-11-26,Price too high
+3860,2024-11-26,Moving to different region
+3862,2024-12-31,Service quality issues
+3876,2024-01-31,Moving to different region
+3878,2024-04-30,Technical problems
+3882,2024-12-31,No longer need service
+3893,2024-12-31,Better offer from competitor
+3900,2024-12-31,Poor customer service
+3905,2024-10-27,Better offer from competitor
+3933,2024-04-30,Better offer from competitor
+3936,2024-12-31,Service quality issues
+3939,2024-12-31,Service quality issues
+3940,2024-01-31,Billing issues
+3949,2024-12-31,No longer need service
+3958,2024-12-31,Better offer from competitor
+3961,2024-12-31,Better offer from competitor
+3979,2024-05-30,Billing issues
+3995,2024-06-29,Better offer from competitor
+4002,2024-12-31,Poor customer service
+4006,2024-12-31,Technical problems
+4010,2024-12-31,Technical problems
+4014,2024-12-31,Price too high
+4019,2024-12-31,Better offer from competitor
+4020,2024-01-01,No longer need service
+4033,2024-12-31,Service quality issues
+4038,2024-08-28,Better offer from competitor
+4039,2024-10-27,Technical problems
+4048,2024-12-31,Better offer from competitor
+4059,2024-12-31,Moving to different region
+4064,2024-12-31,Poor customer service
+4068,2024-12-31,Moving to different region
+4070,2024-12-31,Service quality issues
+4081,2024-10-27,Price too high
+4085,2024-12-31,Technical problems
+4095,2024-12-31,Better offer from competitor
+4108,2024-12-31,No longer need service
+4128,2024-06-29,Price too high
+4140,2024-07-29,No longer need service
+4148,2024-12-31,Technical problems
+4163,2024-01-01,No longer need service
+4167,2024-12-31,Service quality issues
+4174,2024-12-31,Price too high
+4177,2024-12-31,Price too high
+4178,2024-12-31,No longer need service
+4186,2024-12-31,No longer need service
+4192,2024-01-01,Poor customer service
+4202,2024-12-31,Technical problems
+4220,2024-12-31,Moving to different region
+4224,2024-12-31,Poor customer service
+4234,2024-03-31,Billing issues
+4235,2024-11-26,Moving to different region
+4238,2024-12-31,Poor customer service
+4241,2024-12-31,Technical problems
+4253,2024-07-29,Technical problems
+4262,2024-12-31,Moving to different region
+4270,2024-10-27,Billing issues
+4280,2024-12-31,Billing issues
+4283,2024-03-01,Billing issues
+4284,2024-01-31,Billing issues
+4285,2024-12-31,Billing issues
+4288,2024-06-29,Technical problems
+4297,2024-12-31,Technical problems
+4310,2024-01-31,Price too high
+4319,2024-12-31,Better offer from competitor
+4329,2024-01-01,No longer need service
+4330,2024-08-28,Moving to different region
+4342,2024-03-31,Price too high
+4345,2024-12-31,Technical problems
+4346,2024-01-01,No longer need service
+4348,2024-06-29,Service quality issues
+4352,2024-12-31,Better offer from competitor
+4353,2024-03-31,Technical problems
+4356,2024-12-31,Poor customer service
+4364,2024-01-01,Price too high
+4365,2024-01-01,Price too high
+4370,2024-12-31,Poor customer service
+4373,2024-12-31,Billing issues
+4380,2024-12-31,No longer need service
+4386,2024-12-31,No longer need service
+4387,2024-01-01,Moving to different region
+4389,2024-12-31,Price too high
+4400,2024-12-31,Technical problems
+4407,2024-06-29,Moving to different region
+4413,2024-01-01,Price too high
+4421,2024-11-26,No longer need service
+4446,2024-07-29,Poor customer service
+4467,2024-10-27,Technical problems
+4473,2024-12-31,Poor customer service
+4475,2024-12-31,Service quality issues
+4478,2024-06-29,No longer need service
+4487,2024-12-31,Service quality issues
+4488,2024-01-01,Poor customer service
+4490,2024-08-28,Service quality issues
+4495,2024-03-31,Better offer from competitor
+4499,2024-12-31,No longer need service
+4513,2024-08-28,Service quality issues
+4516,2024-10-27,Moving to different region
+4538,2024-11-26,Better offer from competitor
+4540,2024-08-28,Poor customer service
+4542,2024-12-31,Better offer from competitor
+4560,2024-07-29,Better offer from competitor
+4581,2024-12-31,Service quality issues
+4587,2024-12-31,Billing issues
+4602,2024-08-28,Better offer from competitor
+4609,2024-10-27,Billing issues
+4614,2024-12-31,Moving to different region
+4621,2024-01-01,Better offer from competitor
+4630,2024-09-27,Service quality issues
+4644,2024-12-31,Poor customer service
+4645,2024-12-31,No longer need service
+4660,2024-12-31,Service quality issues
+4680,2024-12-31,Price too high
+4688,2024-12-31,Billing issues
+4704,2024-12-31,Better offer from competitor
+4718,2024-09-27,No longer need service
+4740,2024-01-01,Technical problems
+4752,2024-11-26,Billing issues
+4756,2024-12-31,Price too high
+4771,2024-12-31,Better offer from competitor
+4778,2024-12-31,Moving to different region
+4808,2024-01-31,Billing issues
+4818,2024-08-28,No longer need service
+4820,2024-08-28,Price too high
+4832,2024-07-29,Moving to different region
+4837,2024-12-31,No longer need service
+4842,2024-12-31,No longer need service
+4843,2024-01-01,Price too high
+4849,2024-08-28,Technical problems
+4864,2024-11-26,Price too high
+4868,2024-12-31,Poor customer service
+4876,2024-12-31,Billing issues
+4885,2024-12-31,Moving to different region
+4902,2024-10-27,Poor customer service
+4909,2024-01-01,No longer need service
+4922,2024-12-31,No longer need service
+4927,2024-07-29,Price too high
+4931,2024-12-31,Service quality issues
+4933,2024-12-31,Moving to different region
+4962,2024-01-31,No longer need service
+4969,2024-12-31,Poor customer service
+4988,2024-01-31,No longer need service
+4992,2024-12-31,Price too high
