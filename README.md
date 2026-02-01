@@ -1,0 +1,2 @@
+# Customer_Churn_Analysis_Project
+Vollständiges Customer Churn Analyse-Projekt für ein kanadisches Telekommunikationsunternehmen
