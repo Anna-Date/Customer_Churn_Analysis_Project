@@ -6,10 +6,7 @@ Vollständiges Customer Churn Analytics Projekt für ein fiktives kanadisches Te
 
 > Das Projekt bildet ein realistisches, relationales Unternehmensdatenmodell ab und kombiniert Kunden-, Vertrags-, Transaktions-, Zahlungs-, Nutzungs- und Churn-Daten zur Durchführung zeitbasierter Analysen und Business-Insights.
 **Projektumfang:**
-* 64,374 Kunden
-* 1,010,527 Transaktionen
-* 1,520,581 Aktivitätseinträge
-* Zeitraum: 2023-2025
+* Zeitraum: Januar - Dezember 2024 (12 Monate)
 * Regionen: Ontario, Quebec, British Columbia, Alberta, Manitoba, Saskatchewan, Nova Scotia
 ---
 ## Daten 
@@ -20,15 +17,15 @@ Die synthetische Datengenerierung orientiert sich an realistischen Geschäftsann
 
 ### Generierte Dateien
 > Daten (CSV)
-* **customers.csv** - Kundenstammdaten (64,374 Zeilen)
+* **customers.csv** - Kundenstammdaten 
   - customer_id, signup_date, region, gender, age
-* **contract.csv** - Vertragsdetails (64,374 Zeilen)
+* **contract.csv** - Vertragsdetails 
   - contract_id, customer_id, subscription_type, contract_length, start_date, end_date
-* **transactions.csv** - Transaktionshistorie (1,010,527 Zeilen)
+* **transactions.csv** - Transaktionshistorie 
   - transaction_id, customer_id, transaction_date, product_id, revenue
-* **payments.csv** - Zahlungsdaten (678,972 Zeilen)
+* **payments.csv** - Zahlungsdaten 
   - payment_id, transaction_id, payment_delay_days, payment_status
-* **customer_activity.csv** - Monatliche Aktivität (1,520,581 Zeilen)
+* **customer_activity.csv** - Monatliche Aktivität
   - activity_id, customer_id, activity_month, logins, support_calls
-* **churn_events.csv** - Abwanderungsereignisse (30,493 Zeilen)
+* **churn_events.csv** - Abwanderungsereignisse 
   - customer_id, churn_date, churn_reason
