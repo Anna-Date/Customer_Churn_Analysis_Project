@@ -57,50 +57,34 @@ Um aussagekräftige Analysen durchführen zu können, wandeln wir unser **OLTP-D
 * Python
 * Power BI
 ---
-Bemerkung zur SQL Script - Churn-Risiko-Analyse
+## Bemerkung zur SQL Script - Churn-Risiko-Analyse
 
 In diesem Projekt wird das Kündigungsrisiko (Churn) von Kunden regelbasiert mit SQL analysiert.
 Ziel ist es, Kunden zu identifizieren, die mit hoher Wahrscheinlichkeit bald kündigen, basierend auf ihrem Verhalten und ihren Vertrags- und Zahlungsdaten.
-
-## Grundidee
-
-Churn entsteht in der Regel nicht durch ein einzelnes Ereignis, sondern durch eine Kombination mehrerer Warnsignale.
-Daher werden verschiedene Kennzahlen (KPIs) auf Kundenebene aggregiert und zu einem Churn-Risiko-Score zusammengeführt.
 
 ### Verwendete Churn-Indikatoren
 
 Die Analyse berücksichtigt folgende Dimensionen:
 
-* Nutzungsaktivität
-* Durchschnittliche Anzahl von Logins (avg_logins)
-* Niedrige Nutzung deutet auf sinkendes Interesse am Produkt hin
-* Support-Interaktionen
+* **Nutzungsaktivität**
+  - Durchschnittliche Anzahl von Logins (avg_logins)
+  - Niedrige Nutzung deutet auf sinkendes Interesse am Produkt hin
+* **Support-Interaktionen**
+  - Durchschnittliche Anzahl von Support-Anrufen (avg_support_calls)
+  - Viele Support-Anfragen können auf Frustration oder Probleme hinweisen
 
-Durchschnittliche Anzahl von Support-Anrufen (avg_support_calls)
+* **Zahlungsverhalten**
+  - Durchschnittliche Zahlungsverspätung (avg_payment_delay_days)
+  - Wiederholte Verzögerungen gelten als Frühwarnsignal für Abwanderung
 
-Viele Support-Anfragen können auf Frustration oder Probleme hinweisen
+* **Vertragstyp**
+  - Kurzfristige oder monatliche Verträge sind leichter kündbar als langfristige Verträge
 
-Zahlungsverhalten
+## Churn-Risiko-Score
 
-Durchschnittliche Zahlungsverspätung (avg_payment_delay_days)
+Für jeden Kunden wird ein **Score** berechnet:
 
-Wiederholte Verzögerungen gelten als Frühwarnsignal für Abwanderung
+* Jedes erfüllte **Risikokriterium ergibt einen Punkt**
+* Der Gesamt-Score liegt zwischen **0 (kein Risiko)** und **4 (sehr hohes Risiko)**
 
-Vertragstyp
-
-Kurzfristige oder monatliche Verträge sind leichter kündbar als langfristige Verträge
-
-Churn-Risiko-Score
-
-Für jeden Kunden wird ein regelbasierter Score berechnet:
-
-Jedes erfüllte Risikokriterium ergibt einen Punkt
-
-Der Gesamt-Score liegt zwischen 0 (kein Risiko) und 4 (sehr hohes Risiko)
-
-## Beispielhafte Interpretation:
-
-* 0–1 Punkte: stabiler Kunde
-* 2 Punkte: erhöhtes Kündigungsrisiko
-* 3–4 Punkte: hohes Kündigungsrisiko
   
