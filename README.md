@@ -105,5 +105,5 @@ Für jeden Kunden wird ein **Score** berechnet:
 3. Cohort Analysis
    > Cohort - ist Gruppe von Kunden, die zur gleichen Zeit z. B. im gleichen Monat oder Jahr einen Vertrag abgeschlossen haben (Signup oder Contract Start).
    >Cohort-Metriken messen, wie sich diese Gruppe über die Zeit verhält.
-4. Survival Analysis
-5. Was passiert mit Revenue, wenn wir Churn um 1 % senken?
+4. Was passiert mit Revenue, wenn wir Churn um 1 % senken?
+5. Churn Prediction
