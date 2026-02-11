@@ -100,10 +100,9 @@ Für jeden Kunden wird ein **Score** berechnet:
 10. Churn-Risiko Score
 ---
 ## Python Analyse
-1. Churn Prediction
-2. Customer Segmentation
-3. Cohort Analysis
+1. Customer Segmentation
+2. Cohort Analysis
    > Cohort - ist Gruppe von Kunden, die zur gleichen Zeit z. B. im gleichen Monat oder Jahr einen Vertrag abgeschlossen haben (Signup oder Contract Start).
    >Cohort-Metriken messen, wie sich diese Gruppe über die Zeit verhält.
-4. Was passiert mit Revenue, wenn wir Churn um 1 % senken?
-5. Churn Prediction
+3. Was passiert mit Revenue, wenn wir Churn um 1 % senken?
+4. Churn Prediction
